@@ -1,0 +1,10 @@
+{
+  "openAnimation": "F7",
+  "finishAnimation": "F9",
+  "textToExit": "Pour sortir",
+  "textToOpen": "Pour ouvrir le menu",
+  "age": "Âge :",
+  "height": "Taille :",
+  "weight": "Poids :",
+  "review": "Avis :"
+}
